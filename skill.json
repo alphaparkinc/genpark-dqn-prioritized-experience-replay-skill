@@ -1,0 +1,16 @@
+{
+  "name": "genpark-dqn-prioritized-experience-replay-skill",
+  "version": "1.0.0",
+  "description": "Deep Q-Network Prioritized Experience Replay (PER) binary sum-tree engine enabling O(log N) proportional transition sampling and TD-error ranking.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "deep-rl",
+    "dqn",
+    "per",
+    "experience-replay",
+    "sum-tree"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
